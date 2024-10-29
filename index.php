@@ -45,11 +45,11 @@
         </div>
         
         <div class="col-12 text-center my-4">
-          <video class="img-fluid position-relative rounded-5 shadow video-com-borda" width="1080" height="440" src="img/LP Video APP.mp4" controls preload="metadata" controlsList="nodownload"></video>
+          <video class="img-fluid position-relative rounded-5 shadow video-com-borda" width="1080" height="440" src="LP Video APP.mp4" controls preload="metadata" controlsList="nodownload"></video>
           <h4 class="text-success mt-4">PEÇA SEU ACESSO DE TESTE GRATUITO E COMPROVE A QUALIDADE!</h4>
 
           <!-- Botão de WhatsApp em Bootstrap -->
-          <a href="https://wa.me/SEUNUMERO" target="_blank" class="btn btn-success d-inline-flex align-items-center px-4 py-2 rounded-pill text-white mt-3">
+          <a href="https://wa.me/556992838718" target="_blank" class="btn btn-success d-inline-flex align-items-center px-4 py-2 rounded-pill text-white mt-3">
             <i class="fab fa-whatsapp me-2"></i>
             FALE AGORA com Nosso Consultor
           </a>
@@ -59,12 +59,12 @@
         
         <div class="col-12 text-center my-4">
           <p class="fw-lighter">CONHEÇA NOSSO PAINEL EXCLUSIVO</p>
-          <video class="img-fluid position-relative rounded-5 shadow video-com-borda" width="1080" height="440" src="img/Apresentacao Painel.mp4" controls preload="metadata" controlsList="nodownload"></video>
+          <video class="img-fluid position-relative rounded-5 shadow video-com-borda" width="1080" height="440" src="Apresentacao Painel.mp4" controls preload="metadata" controlsList="nodownload"></video>
           <h4 class="text-success mt-4">NÃO PERCA ESSA OPORTUNIDADE DE CRESCIMENTO FINANCEIRO!</h4>
           <p class="lead mt-3">Com nosso painel intuitivo, você gerencia suas vendas com facilidade. Aproveite um sistema de controle completo e suporte ao cliente!</p>
 
           <!-- Botão de WhatsApp em Bootstrap (duplicado conforme o layout) -->
-          <a href="https://wa.me/SEUNUMERO" target="_blank" class="btn btn-success d-inline-flex align-items-center px-4 py-2 rounded-pill text-white mt-3">
+          <a href="https://wa.me/556992838718" target="_blank" class="btn btn-success d-inline-flex align-items-center px-4 py-2 rounded-pill text-white mt-3">
             <i class="fab fa-whatsapp me-2"></i>
             ENTRE EM CONTATO AGORA MESMO!
           </a>
